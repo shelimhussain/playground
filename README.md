@@ -1,2 +1,2 @@
 # playground
-This is just nodeJs practice codes1.
+This is just nodeJs practice codes.
