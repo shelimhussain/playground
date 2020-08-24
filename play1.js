@@ -2,7 +2,7 @@ const http = require('http');
 
 const routes = require('./routes');
 
-cosole.log(routes.someText);
+console.log(routes.someText);
 
 const server = http.createServer(routes.handler);
 
