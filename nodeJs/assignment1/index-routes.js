@@ -34,8 +34,8 @@ const requestHandler = (req, res) => {
 
     res.setHeader('Content-Type','text/html');
     res.write('<html>');
-    res.write('<head><title>My NodeJs First page</title></head>');
-    res.write('<body><h1>Hello Shelim from NodeJs!</h1></body>');
+    res.write('<head><title>Assignment 1</title></head>');
+    res.write('<body><h1>Welcome to nodeJs Assignment 1</h1></body>');
     res.write('</html>');
     res.end();
 }
